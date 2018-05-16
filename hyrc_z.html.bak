@@ -14,29 +14,40 @@
 <div class="menu-category">ICPTO 2018</div>
 <div class="menu-item"><a href="math_Chinese.html">首页</a></div>
 <div class="menu-item"><a href="zzwy_z.html">委员会</a></div>
-<div class="menu-item"><a href="zzdw_z.html" class="current">资助单位</a></div>
+<div class="menu-item"><a href="zzdw_z.html">资助单位</a></div>
 <div class="menu-item"><a href="tybgr_z.html">特邀报告</a></div>
-<div class="menu-item"><a href="hyrc_z.html">会议日程</a></div>
+<div class="menu-item"><a href="hyrc_z.html" class="current">会议日程</a></div>
 <div class="menu-item"><a href="bmzc_z.html">报名注册</a></div>
 <div class="menu-item"><a href="hyxx_z.html">会议信息</a></div>
 <div class="menu-item"><a href="index.html">English&nbsp;Version</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1 style="font-size:28px;color: #206A9C;margin-top:7px;margin-bottom:7px">2018多项式与张量优化国际会议
+<h1 style="font-size:28px;color:#206A9C;margin-top:7px;margin-bottom:7px">2018多项式与张量优化国际会议
 </h1>
 <hr style="color:black;margin-top:5px;margin-bottom:1px">
 <hr style="color:black;margin-top:1px;margin-bottom:7px">
 </div>
-<h2 style="font-size:21px;color:#206A9C;margin-top:7px;margin-bottom:7px">资助单位(排名不分先后)</h2>
+<h2 style="font-size:21px;color: #206A9C;margin-top:7px;margin-bottom:7px">初步日程</h2>
 <hr style="color:black;margin-top:5px;margin-top:3px">
-<p style="color:red">湘潭大学数学与计算科学学院<br />
-湘潭大学计算科学学科群<br />
-</p>
+<ul>
+<li><p>2018年12月17日 会议注册<br /></p>
+</li>
+<li><p>2018年12月18日 学术会议<br /></p>
+</li>
+<li><p>2018年12月19日 学术会议<br /></p>
+</li>
+<li><p>2018年12月20日  学术会议<br /></p>
+</li>
+<li><p>2018年12月21日  学术会议<br /><br /></p>
+</li>
+</ul>
+<h2>完整日程: <a href="http://lsec.cc.ac.cn/~icnonla17/Manual2017.pdf" target=&ldquo;blank&rdquo;>下载</a><br /><br /></h2>
+<h2>会议合影: <a href="http://lsec.cc.ac.cn/~icnonla17/Group.jpeg" target=&ldquo;blank&rdquo;>下载</a><br /></h2>
 <hr style="margin-top:5px;">
 <div id="footer">
 <div id="footer-text">
-<p style="color:#ABABAB">Page generated 2018-05-16 20:12:16 CST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.</p>
+<p style="color:#ABABAB">Page generated 2017-08-19 20:57:36 CST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.</p>
 </div>
 </div>
 </td>
